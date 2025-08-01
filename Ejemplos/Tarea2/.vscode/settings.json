@@ -1,0 +1,8 @@
+{
+  "pascal.formatter.engine": "ptop",
+  "pascal.formatter.enginePath": "/usr/bin/ptop",
+  "pascal.formatter.ptop.configFile": "",
+  "pascal.formatter.ptop.indentSize": 2,
+  "pascal.formatter.ptop.wrapLineLength": 120,
+  "pascal.formatter.uses.enabled": false
+}
